@@ -1,0 +1,127 @@
+﻿@model Sample.Domain.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Employee - Details</h2>
+
+<fieldset>
+    <legend>Employee</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.LastName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.LastName)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.FirstName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FirstName)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Title)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.TitleOfCourtesy)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.TitleOfCourtesy)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.BirthDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BirthDate)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.HireDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.HireDate)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Address)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Address)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.City)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.City)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Region)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Region)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.PostalCode)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PostalCode)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Country)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Country)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.HomePhone)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.HomePhone)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Extension)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Extension)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Notes)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Notes)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.ReportsTo)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReportsTo)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.PhotoPath)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PhotoPath)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EmployeeID }) |
+        @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,14 @@
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Repository.Interface\bin\Debug\Sample.Repository.Interface.dll
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Repository.Interface\bin\Debug\Sample.Repository.Interface.pdb
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Repository.Interface\bin\Debug\Sample.Domain.dll
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Repository.Interface\bin\Debug\Sample.Domain.pdb
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Repository.Interface\obj\Debug\Sample.Repository.Interface.csprojResolveAssemblyReference.cache
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Repository.Interface\obj\Debug\Sample.Repository.Interface.dll
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Repository.Interface\obj\Debug\Sample.Repository.Interface.pdb
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Repository.Interface\bin\Debug\Sample.Repository.Interface.dll
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Repository.Interface\bin\Debug\Sample.Repository.Interface.pdb
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Repository.Interface\bin\Debug\Sample.Domain.dll
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Repository.Interface\bin\Debug\Sample.Domain.pdb
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Repository.Interface\obj\Debug\Sample.Repository.Interface.csprojResolveAssemblyReference.cache
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Repository.Interface\obj\Debug\Sample.Repository.Interface.dll
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Repository.Interface\obj\Debug\Sample.Repository.Interface.pdb

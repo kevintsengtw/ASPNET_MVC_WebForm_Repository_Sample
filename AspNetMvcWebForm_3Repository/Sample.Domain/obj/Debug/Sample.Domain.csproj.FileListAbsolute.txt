@@ -1,0 +1,9 @@
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Domain\bin\Debug\Sample.Domain.dll
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Domain\bin\Debug\Sample.Domain.pdb
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Domain\obj\Debug\Sample.Domain.dll
+D:\Develope\Lab\Lab_SimpleInjector\Sample.Domain\obj\Debug\Sample.Domain.pdb
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Domain\bin\Debug\Sample.Domain.dll
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Domain\bin\Debug\Sample.Domain.pdb
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Domain\obj\Debug\Sample.Domain.dll
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Domain\obj\Debug\Sample.Domain.pdb
+D:\Develope\Lab\Lab_SimpleInjector\OpenSource\Sample.Domain\obj\Debug\Sample.Domain.csprojResolveAssemblyReference.cache
