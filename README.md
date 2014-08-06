@@ -2,7 +2,6 @@
 
 **ASP.NET MVC 與 ASP.NET WebForm 使用 Simple Injector 切換選擇不同 Repository.**
 
-by Kevin Tseng - [mrkt 的程式學習筆記](http://kevintsengtw.blogspot.tw)
 
 開發環境：Visual Studio 2012
 
@@ -22,6 +21,8 @@ by Kevin Tseng - [mrkt 的程式學習筆記](http://kevintsengtw.blogspot.tw)
 [ASP.NET WebForm 使用分層的 Repository 類別庫專案](http://kevintsengtw.blogspot.tw/2013/05/aspnet-webform-repository.html)
 
 [ASP.NET WebForm 使用 Simple Injector 選擇不同的 Repository](http://kevintsengtw.blogspot.tw/2013/05/aspnet-webform-simple-injector.html)
+
+by Kevin Tseng - [mrkt 的程式學習筆記](http://kevintsengtw.blogspot.tw)
 
 ==================================================
 
