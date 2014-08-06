@@ -2,9 +2,7 @@
 
 **ASP.NET MVC 與 ASP.NET WebForm 使用 Simple Injector 切換選擇不同 Repository.**
 
-====================================
-
-**by Kevin Tseng - [mrkt 的程式學習筆記](http://kevintsengtw.blogspot.tw)**
+by Kevin Tseng - [mrkt 的程式學習筆記](http://kevintsengtw.blogspot.tw)
 
 開發環境：Visual Studio 2012
 
@@ -12,7 +10,6 @@
 
 開發程式語言及版本：C# .NET Framework 4.5
 
-====================================
 
 **部落格文章連結**
 
